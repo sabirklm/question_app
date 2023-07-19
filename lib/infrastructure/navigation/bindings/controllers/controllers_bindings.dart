@@ -1,0 +1,2 @@
+export 'package:question_app/infrastructure/navigation/bindings/controllers/auth.controller.binding.dart'; 
+export 'package:question_app/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
